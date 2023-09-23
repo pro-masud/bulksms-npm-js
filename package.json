@@ -1,0 +1,30 @@
+{
+  "name": "bulksms-pro",
+  "version": "1.0.0",
+  "description": "this is a bulksmsnpm js package",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "pro-masudbd",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "colors": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pro-masud/bulksms-npm-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pro-masud/bulksms-npm-js/issues"
+  },
+  "homepage": "https://github.com/pro-masud/bulksms-npm-js#readme"
+}
